@@ -52,14 +52,6 @@
 ### ⚡ Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=f0nseca7&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0nseca7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Commits
-
-<p align="center">
-  <img src="https://github.com/f0nseca7/f0nseca7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=f0nseca7&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0nseca7&layout=compact&theme=tokyonight" />
 </p>
